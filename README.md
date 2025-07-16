@@ -7,7 +7,7 @@ It demonstrates how X and H gates behave on different qubits and shows how to vi
 
 Here’s what the output histogram looks like after 1000 simulations:
 
-![Quantum Histogram](images/histogram.png)
+![Quantum Histogram](histogram.png)
 
 ## ✨ Features
 
